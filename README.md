@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Noland-Jervis
+- 👀 I’m interested in construction projects and how to infuse technology to be more efficient 
+- 🌱 I’m currently learning R Programming and JavaScript 
+- 💞️ I’m looking to collaborate with IT specialist on designing application that would enable seamless building construction estimates 
+- 📫 I can be reached by email: nolandsjervis@gmail.com or my github account.
